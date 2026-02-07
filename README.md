@@ -4,8 +4,7 @@ This project is a simple front-end implementation of an **Amazon-inspired naviga
 The goal is to practice layout structuring, navigation design, and basic UI styling.
 
 ## Live Demo
-[https://mehedi-x.github.io/amazon-signin-navbar/](https://mehedi-x.github.io/amazonStyle_navbar/)
-
+https://mehedi-x.github.io/amazon-signin-navbar/
 ## Repository Purpose
 - Practice real-world navbar design
 - Learn how large websites structure navigation
